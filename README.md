@@ -1,6 +1,6 @@
 # Bytes Calculator
 
-Project the calculate the bytes value of an file.
+Project the calculate the bytes value of a file.
 
 #### Usage
 * Put the file in the root folder
